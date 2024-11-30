@@ -9,19 +9,11 @@ Bienvenidos al repositorio de **Advent of Code 2024** en **OCaml**. Durante todo
 
 ## 🎄 Árbol de Navidad
 
-Aquí tienes un árbol de Navidad hecho con caracteres ASCII para darle un toque festivo:
+Para darle un toque festivo:
 
       *
      /_\
     /___\
-   /_____\
-  /_______\
- /_________\
-/___________\
-   |     |
-   |     |
-   |     |
-
 
 ---
 
