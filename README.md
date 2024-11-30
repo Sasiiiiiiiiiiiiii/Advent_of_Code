@@ -19,5 +19,3 @@ Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** 
 
    ```bash
    git clone https://github.com/tu-usuario/Advent_of_Code_2024.git
-
-<p align="center"> <img src="https://example.com/screenshot1.png" alt="Captura de pantalla 1" width="500" style="margin-right: 20px;"> <img src="https://example.com/screenshot2.png" alt="Captura de pantalla 2" width="500"> </p>
