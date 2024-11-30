@@ -12,6 +12,17 @@ Bienvenidos al repositorio de **Advent of Code 2024** en **OCaml**. Durante todo
 Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** en el lenguaje de programación **OCaml**. Cada día se irá añadiendo una solución diferente a medida que los problemas se desbloquean.
 
 ---
+      *
+     /_\
+    /___\
+   /_____\
+  /_______\
+ /_________\
+/___________\
+   |     |
+   |     |
+   |     |
+---
 
 ## 🌟 ¿Cómo empezar?
 
