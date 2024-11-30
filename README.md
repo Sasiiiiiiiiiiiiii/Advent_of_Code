@@ -7,11 +7,10 @@ Bienvenidos al repositorio de **Advent of Code 2024** en **OCaml**. Durante todo
 
 ---
 
-## 🚀 Objetivo
+## 🎄 Árbol de Navidad
 
-Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** en el lenguaje de programación **OCaml**. Cada día se irá añadiendo una solución diferente a medida que los problemas se desbloquean.
+Aquí tienes un árbol de Navidad hecho con caracteres ASCII para darle un toque festivo:
 
----
       *
      /_\
     /___\
@@ -22,6 +21,14 @@ Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** 
    |     |
    |     |
    |     |
+
+
+---
+
+## 🚀 Objetivo
+
+Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** en el lenguaje de programación **OCaml**. Cada día se irá añadiendo una solución diferente a medida que los problemas se desbloquean.
+
 ---
 
 ## 🌟 ¿Cómo empezar?
@@ -30,3 +37,4 @@ Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** 
 
    ```bash
    git clone https://github.com/tu-usuario/Advent_of_Code_2024.git
+
