@@ -19,8 +19,6 @@ Para entrar en ambiente navideño:
 
 ¡Que este arbolito ilumine tus líneas de código! 🎄💻  
 
----
-
 ## 🚀 **Objetivo del Repositorio**  
 Este repositorio recopila las soluciones de los retos diarios de **Advent of Code 2024** utilizando el lenguaje de programación **OCaml**.  
 📅 Cada día se desbloqueará un nuevo desafío, ¡y aquí encontrarás la solución para superarlo!  
