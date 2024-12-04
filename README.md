@@ -1,15 +1,14 @@
 # Advent_of_Code
-# Advent of Code 2024 🎄🧑‍💻
-
-Bienvenidos al repositorio de **Advent of Code 2024** en **OCaml**. Durante todo diciembre, resolveremos desafíos de programación mientras celebramos la Navidad con código.
-
-![Logo de Advent of Code](https://adventofcode.com/favicon.ico)
+# 🎅🎄 **Advent of Code 2024** 🎄🎅  
+¡Bienvenido al mágico mundo del **Advent of Code 2024** en **OCaml**! 🌟  
+Un evento de programación que combina el desafío, la diversión y el espíritu navideño. 🧑‍💻✨  
 
 ---
 
-## 🎄 Árbol de Navidad
+## 🎨 **Un toque festivo**  
+Para entrar en ambiente navideño:  
 
-Para darle un toque festivo:
+---
 
       *
      /_\
@@ -17,16 +16,27 @@ Para darle un toque festivo:
 
 ---
 
-## 🚀 Objetivo
 
-Este repositorio contiene soluciones a los desafíos de **Advent of Code 2024** en el lenguaje de programación **OCaml**. Cada día se irá añadiendo una solución diferente a medida que los problemas se desbloquean.
+¡Que este arbolito ilumine tus líneas de código! 🎄💻  
 
 ---
 
-## 🌟 ¿Cómo empezar?
+## 🚀 **Objetivo del Repositorio**  
+Este repositorio recopila las soluciones de los retos diarios de **Advent of Code 2024** utilizando el lenguaje de programación **OCaml**.  
+📅 Cada día se desbloqueará un nuevo desafío, ¡y aquí encontrarás la solución para superarlo!  
 
-1. Clona este repositorio:
+🛠️ **Tecnologías:**  
+- Lenguaje: **OCaml**  
+- IDE recomendado: **VS Code** o **Emacs**  
+- Gestión de dependencias: **opam**
 
-   ```bash
-   git clone https://github.com/tu-usuario/Advent_of_Code_2024.git
+---
 
+## 🌟 **¿Cómo empezar?**  
+
+### 1️⃣ Clona este repositorio  
+
+Utiliza el siguiente comando para obtener una copia del repositorio:  
+
+```bash
+git clone https://github.com/tu-usuario/Advent_of_Code_2024.git
