@@ -1,12 +1,12 @@
 # Advent_of_Code
-# ğŸ…ğŸ„ **Advent of Code 2024** ğŸ„ğŸ…  
-Â¡Bienvenido al mÃ¡gico mundo del **Advent of Code 2024** en **OCaml**! ğŸŒŸ  
-Un evento de programaciÃ³n que combina el desafÃ­o, la diversiÃ³n y el espÃ­ritu navideÃ±o. ğŸ§‘â€ğŸ’»âœ¨  
+# ?? **Advent of Code 2024** ??  
+¡Bienvenido al mágico mundo del **Advent of Code 2024** en **OCaml**! ?  
+Un evento de programación que combina el desafío, la diversión y el espíritu navideño. ????  
 
 ---
 
-## ğŸ¨ **Un toque festivo**  
-Para entrar en ambiente navideÃ±o:  
+## ? **Un toque festivo**  
+Para entrar en ambiente navideño:  
 
 ---
 
@@ -17,22 +17,22 @@ Para entrar en ambiente navideÃ±o:
 ---
 
 
-Â¡Que este arbolito ilumine tus lÃ­neas de cÃ³digo! ğŸ„ğŸ’»  
+¡Que este arbolito ilumine tus líneas de código! ??  
 
-## ğŸš€ **Objetivo del Repositorio**  
-Este repositorio recopila las soluciones de los retos diarios de **Advent of Code 2024** utilizando el lenguaje de programaciÃ³n **OCaml**.  
-ğŸ“… Cada dÃ­a se desbloquearÃ¡ un nuevo desafÃ­o, Â¡y aquÃ­ encontrarÃ¡s la soluciÃ³n para superarlo!  
+## ? **Objetivo del Repositorio**  
+Este repositorio recopila las soluciones de los retos diarios de **Advent of Code 2024** utilizando el lenguaje de programación **OCaml**.  
+? Cada día se desbloqueará un nuevo desafío, ¡y aquí encontrarás la solución para superarlo!  
 
-ğŸ› ï¸ **TecnologÃ­as:**  
+?? **Tecnologías:**  
 - Lenguaje: **OCaml**  
 - IDE recomendado: **VS Code** o **Emacs**  
-- GestiÃ³n de dependencias: **opam**
+- Gestión de dependencias: **opam**
 
 ---
 
-## ğŸŒŸ **Â¿CÃ³mo empezar?**  
+## ? **¿Cómo empezar?**  
 
-### 1ï¸âƒ£ Clona este repositorio  
+### 1?? Clona este repositorio  
 
 Utiliza el siguiente comando para obtener una copia del repositorio:  
 
