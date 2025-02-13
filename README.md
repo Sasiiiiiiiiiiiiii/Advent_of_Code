@@ -8,9 +8,12 @@ Un evento de programación que combina el desafío, la diversión y el espíritu
 ## 🎄 Un toque festivo  
 Para entrar en el ambiente navideño:
 
-  *
- /_\
-/___\
+        *
+       /_\
+      /___\
+     /_____\
+    /_______\
+
 
 
 ¡Que este arbolito ilumine tus líneas de código! ✨🎉
