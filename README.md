@@ -33,11 +33,3 @@ Cada día se desbloqueará un nuevo desafío, ¡y aquí encontrarás la solució
 - **Gestión de dependencias**: opam
 
 ---
-
-## 🚀 ¿Cómo empezar?  
-
-1. **Clona este repositorio**  
-   Utiliza el siguiente comando para obtener una copia del repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/Advent_of_Code_2024.git
